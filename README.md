@@ -9,7 +9,7 @@ npm install -g @ionic/cli
 ```
 Clone this repo.
 ```
-git clone https://github.com/Hamza-IT/PFA.git
+git clone https://github.com/ZakariaSabour/weCare.git
 ```
 With the console/terminal, cd into the cloned folder and install any dependencies.
 ```
